@@ -1,0 +1,42 @@
+[
+  {
+    "Status": "Unavailable",
+    "Title": "Operation One",
+    "ImageUrl": "https://raw.githubusercontent.com/oobal6/rip-boog/refs/heads/main/V1/IMG_3084.jpeg",
+    "Loadstring": "none",
+    "Version": "1.0.0",
+    "Changelog": "Initial release"
+  },
+  {
+    "Status": "Unavailable",
+    "Title": "Blox Strike",
+    "ImageUrl": "https://raw.githubusercontent.com/oobal6/rip-boog/refs/heads/main/V1/IMG_3083.jpeg",
+    "Loadstring": "none",
+    "Version": "1.0.0",
+    "Changelog": "Initial release"
+  },
+  {
+    "Status": "Unavailable",
+    "Title": "Counter Blox",
+    "ImageUrl": "https://raw.githubusercontent.com/oobal6/rip-boog/refs/heads/main/V1/IMG_3082.webp",
+    "Loadstring": "none",
+    "Version": "1.0.0",
+    "Changelog": "Initial release"
+  },
+  {
+    "Status": "Unavailable",
+    "Title": "Rost Alpha",
+    "ImageUrl": "https://raw.githubusercontent.com/oobal6/rip-boog/refs/heads/main/V1/IMG_3081.jpeg",
+    "Loadstring": "none",
+    "Version": "1.0.0",
+    "Changelog": "Initial release"
+  },
+  {
+    "Status": "Unavailable",
+    "Title": "Trident Survival",
+    "ImageUrl": "https://raw.githubusercontent.com/oobal6/rip-boog/refs/heads/main/V1/IMG_3080.jpeg",
+    "Loadstring": "none",
+    "Version": "2.1.5",
+    "Changelog": "- Fixed silent aim bugs\n- Added mobile ESP\n- Improved hitbox expansion\n- Performance optimizations"
+  }
+]
